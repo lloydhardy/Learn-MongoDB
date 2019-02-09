@@ -18,3 +18,5 @@ db.items.insertOne(
 
 
 db.items.find() - Return all documents from items collection
+
+db.items.find({Name : "Desk"}) - Return all documents from items collection with the Name: "Desk"
