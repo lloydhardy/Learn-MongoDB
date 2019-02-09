@@ -1,6 +1,6 @@
 # Learn-MongoDB
 
-Language Reference for Mongo DB
+Language Reference for Mongo DB NoSQL
 
 # Language Reference
 
