@@ -15,3 +15,6 @@ db.items.insertOne(
 )
 
 - inserts a Document into a Collection (eg. the specified items into the items collection in myDatabase). items Collection is created if not alreayd in existence.
+
+
+db.items.find() - Return all documents from items collection
